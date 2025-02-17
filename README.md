@@ -50,7 +50,8 @@ Edit
 - Users can remotely monitor the parking status using the **Blynk App**.  
 
 ## 🏆 Contributors  
-- **[Your Name]** - Project Developer  
+- **Aaron Cherian** - Project Developer
+- **Goransh Karel** - Project Developer  
 - Contributions are welcome! Feel free to submit a pull request.  
 
 ## 📜 License  
